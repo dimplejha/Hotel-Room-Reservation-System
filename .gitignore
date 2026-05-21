@@ -148,3 +148,9 @@ sxkeychain erase
 .next
 node_modules
 .env
+
+.DS_Store
+sxkeychain erase
+.next
+node_modules
+.env
