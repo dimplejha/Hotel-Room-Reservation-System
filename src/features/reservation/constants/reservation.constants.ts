@@ -1,0 +1,3 @@
+export const MAX_BOOKABLE_ROOMS = 5;
+export const DEFAULT_RANDOM_OCCUPANCY_RATE = 0.35;
+
