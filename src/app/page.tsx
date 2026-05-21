@@ -16,7 +16,7 @@ export default function HomePage() {
     <div className="shell">
       <header className="hero">
         <div>
-          <p className="eyebrow">Node.js Assessment</p>
+          <p className="eyebrow"></p>
           <h1>Hotel Room Reservation System</h1>
           <p className="lede">
             Book up to five rooms, prefer the same floor, and fall back to the most efficient
